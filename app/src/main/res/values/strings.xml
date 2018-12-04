@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drink Encyclopedia</string>
+    <string name="img_drinks">Imagem relacionada ao drink</string>
+    <string name="drinks">Drinks</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_random">RandomActivity</string>
+</resources>
